@@ -3,9 +3,6 @@
 - 🔭 Cursando Ciência da computação na Universidade Estadual do Norte do Paraná (UENP).
 - 🌱 Estudando desenvolvimento WEB.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Ju-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
 
 ##
 <picture>
@@ -19,6 +16,12 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=educalza&show_icons=true" />
 </picture>
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Ju-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+##
  
 <div> 
   <a href="https://www.instagram.com/pdduduzin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
