@@ -1,8 +1,6 @@
 ## Olá, Seja bem vindo ao meu perfil! 
 
 - 🔭 Cursando Ciência da computação na Universidade Estadual do Norte do Paraná (UENP).
-- ☕ Estudando Java.
-- ✍ Estrutura de Dados
 
 
 ##
